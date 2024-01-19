@@ -1,4 +1,9 @@
 <p align="center">
+<a href="https://wakatime.com/@80313f09-f48e-442f-88c0-692cd351cb9e"><img src="https://wakatime.com/badge/user/80313f09-f48e-442f-88c0-692cd351cb9e.svg?style=flat" alt="Total time coded since Dec 10 2021" /></a>
+</p>
+
+
+<p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Z-Kris">
