@@ -2,20 +2,16 @@
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Z-Kris">
-      <img src="https://github-readme-stats.vercel.app/api/?username=Z-Kris&title_color=5ae87c&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=5ae87c&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
-    </td>
-      <td align="center" style="padding=0;width=50%;">
-      <a href="https://github.com/Z-Kris">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Z-Kris&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=5ae87c&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=5ae87c&hide_title=true&count_private=true&enable_animations=true" />
+      <img src="https://vercel-readme-stats-git-main-z-kris-projects.vercel.app/api?username=z-kris&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&enable_animations=true&rank_icon=percentile" />
     </td>
   </tr>
 </p>
 
 <p align="center">
   <tr>
-    <td align="center" style="padding=0;width=50%;">
+      <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/Z-Kris">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Z-Kris&theme=tokyonight_duo&hide_border=true&ring=000000&currStreakLabel=5ae87c&sideNums=5ae87c&dates=979797&sideLabels=5ae87c&currStreakNum=5ae87c&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
+      <img src="https://vercel-readme-stats-git-main-z-kris-projects.vercel.app/api/wakatime?username=zkris&theme=tokyonight&langs_count=4&enable_animations=true&layout=compact" />
     </td>
   </tr>
 </p>
